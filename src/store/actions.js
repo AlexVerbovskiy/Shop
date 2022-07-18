@@ -1,0 +1,9 @@
+export const setSessionId = "setSessionId";
+export const setIsAdmin = "setIsAdmin";
+export const setLoading = "setLoading";
+export const setCard = "setCard";
+export const appendToCard = "appendToCard";
+export const editCard = "editCard";
+export const deleteFromCard = "deleteFromCard";
+export const setSelectedShop = "setSelectedShop";
+export const setError = "setError";
