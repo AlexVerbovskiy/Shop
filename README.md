@@ -27,5 +27,4 @@ The user can register in two ways, using a form and a Google account.
 A registered user can add stores and products to the database
 
 ### `app URL`
-
-https://62d564593aae824e10e8c32c--marvelous-brigadeiros-000bd5.netlify.app/
+https://62d66c0b47c2c26613c15290--marvelous-brigadeiros-000bd5.netlify.app/
